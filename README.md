@@ -1,6 +1,5 @@
 
 ## Code descriptions
-### main, 1D case 
 demo.m   
 demo how to run our algorithm ScalHT, showing convergence performance versus iteration and time.  
    
