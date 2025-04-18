@@ -8,7 +8,7 @@ ScalHT.m
 ScalHT algorithm
 
 getSignals_mulc.m 
-generate the multichannel signal and measurements.  
+generate the multi-snapshots/measurements/channel signal and observations.  
 
 Need to  install MATLAB Tensor Toolbox, https://www.tensortoolbox.org/. 
 
